@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jaxws_client/jaxws_client.iml" filepath="$PROJECT_DIR$/jaxws_client/jaxws_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/jaxws_server/jaxws_server.iml" filepath="$PROJECT_DIR$/jaxws_server/jaxws_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxws_spring_client/jaxws_spring_client.iml" filepath="$PROJECT_DIR$/jaxws_spring_client/jaxws_spring_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxws_spring_server/jaxws_spring_server.iml" filepath="$PROJECT_DIR$/jaxws_spring_server/jaxws_spring_server.iml" />
     </modules>
   </component>
 </project>
