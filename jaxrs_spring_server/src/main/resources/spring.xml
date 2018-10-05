@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:jaxrs="http://cxf.apache.org/jaxrs"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://cxf.apache.org/jaxrs http://cxf.apache.org/schemas/jaxrs.xsd
+     ">
+
+     <!--
+          spring 整合cxf  基于restful风格服务关键点:
+          服务地址
+          服务类
+
+          http://localhost:8080/pyj/hello  服务完整访问地址
+     -->
+    <jaxrs:server address="/restspring">
+        <jaxrs:serviceBeans>
+            <bean class="com.jaremo.service.impl.UserServiceImpl"></bean>
+        </jaxrs:serviceBeans>
+    </jaxrs:server>
+</beans>

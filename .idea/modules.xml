@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jaxrs_client/jaxrs_client.iml" filepath="$PROJECT_DIR$/jaxrs_client/jaxrs_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/jaxrs_server/jaxrs_server.iml" filepath="$PROJECT_DIR$/jaxrs_server/jaxrs_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxrs_spring_client/jaxrs_spring_client.iml" filepath="$PROJECT_DIR$/jaxrs_spring_client/jaxrs_spring_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxrs_spring_server/jaxrs_spring_server.iml" filepath="$PROJECT_DIR$/jaxrs_spring_server/jaxrs_spring_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jaxws_client/jaxws_client.iml" filepath="$PROJECT_DIR$/jaxws_client/jaxws_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/jaxws_server/jaxws_server.iml" filepath="$PROJECT_DIR$/jaxws_server/jaxws_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jaxws_spring_client/jaxws_spring_client.iml" filepath="$PROJECT_DIR$/jaxws_spring_client/jaxws_spring_client.iml" />

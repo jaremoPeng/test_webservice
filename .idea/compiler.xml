@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jaxrs_client" />
         <module name="jaxrs_server" />
+        <module name="jaxrs_spring_client" />
+        <module name="jaxrs_spring_server" />
         <module name="jaxws_server" />
         <module name="jaxws_spring_client" />
         <module name="jaxws_spring_server" />
@@ -16,6 +18,8 @@
     <bytecodeTargetLevel>
       <module name="jaxrs_client" target="1.8" />
       <module name="jaxrs_server" target="1.8" />
+      <module name="jaxrs_spring_client" target="1.8" />
+      <module name="jaxrs_spring_server" target="1.8" />
       <module name="jaxws_client" target="1.5" />
       <module name="jaxws_server" target="1.8" />
       <module name="jaxws_spring_client" target="1.8" />
